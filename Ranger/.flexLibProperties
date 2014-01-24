@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="ranger.model.BaseModel"/>
+    <classEntry path="ranger.model.RSingleton"/>
+    <classEntry path="ranger.model.RIconManager"/>
+    <classEntry path="ranger.interf.REnumI"/>
+    <classEntry path="ranger.attribute.RLocalConfig"/>
+    <classEntry path="ranger.attribute.RSysConfig"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
