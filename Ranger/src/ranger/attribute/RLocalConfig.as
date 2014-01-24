@@ -19,5 +19,9 @@ package ranger.attribute
 		public function master():void{
 			return;
 		}
+		
+		public function experimental():void{
+			return;
+		}
 	}
 }
