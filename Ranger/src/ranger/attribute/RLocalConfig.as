@@ -15,5 +15,9 @@ package ranger.attribute
 		{
 			super();
 		}
+
+		public function master():void{
+			return;
+		}
 	}
 }
