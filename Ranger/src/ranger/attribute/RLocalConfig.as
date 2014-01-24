@@ -9,7 +9,7 @@ package ranger.attribute
 	public class RLocalConfig extends RBaseModel
 	{
 		/**
-		 * 
+		 * check
 		 */
 		public function RLocalConfig()
 		{
