@@ -21,5 +21,7 @@ package ranger.interf
 		 * @param obj
 		 */
 		function set dataP(obj:Object):void;
+
+		function testClone():void;
 	}
 }
