@@ -15,7 +15,7 @@ package ranger.model
 		}
 		
 		
-		
+		public function testLyc():void{}
 		
 		
 		
